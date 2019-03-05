@@ -21,3 +21,5 @@ Matthias works directly respond to the surrounding environment and uses everyday
 ### Functionality
 The piece consists of sixteen pawns arranged in a 4 by 4 manner. Fifteen of the pawns are glued to the base which prevents them from moving. The sixteenth pawn is attached to a 6V motor that rotates both clockwise and counter-clockwise. The motor changes direction every 12 seconds in order to catch the viewer’s attention and to complete a cycle of 24 seconds that aims to represent the duration of a day. The change in motor’s directions was achieved using a Quadruple Half-H Driver L293D and the circuit design show in Image 0. Additionally, the motor’s speed is controlled by a potentiometer. An LCD Screen was attached to showcase the number of days that the pawn has been spinning, i.e non-conforming.
 
+<img width="688" alt="image" src="https://user-images.githubusercontent.com/32083332/53828818-b350eb80-3f4c-11e9-9570-9337d3a70480.png">
+
