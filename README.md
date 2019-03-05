@@ -1,5 +1,5 @@
 # matthias-art-tech
-Matthias - An art and technology project
+Matthias - An art and technology project where engineers and artists come together to make a memorable piece of "Art Tech"
 
 ### Artist Statement
 
