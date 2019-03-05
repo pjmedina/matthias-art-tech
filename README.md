@@ -24,3 +24,8 @@ The piece consists of sixteen pawns arranged in a 4 by 4 manner. Fifteen of the 
 <img width="688" alt="image" src="https://user-images.githubusercontent.com/32083332/53828818-b350eb80-3f4c-11e9-9570-9337d3a70480.png">
 
 ### Pictures of Matthias
+
+<img width="892" alt="image" src="https://user-images.githubusercontent.com/32083332/53828950-075bd000-3f4d-11e9-94f6-0201c2311c48.png">
+<img width="887" alt="image" src="https://user-images.githubusercontent.com/32083332/53828987-1b073680-3f4d-11e9-86fe-ade9f9dc69a4.png">
+<img width="888" alt="image" src="https://user-images.githubusercontent.com/32083332/53829034-3d00b900-3f4d-11e9-9c77-95a50826a1f0.png">
+
